@@ -1,0 +1,1454 @@
+<!DOCTYPE html>
+
+<html lang="en-US">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width" />
+<link rel="profile" href="http://gmpg.org/xfn/11" />
+<link rel="pingback" href="http://xsig.hpcc.jp/en/xmlrpc.php" />
+<!--[if lt IE 9]>
+<script src="http://xsig.hpcc.jp/en/wp-content/themes/experon/lib/scripts/html5.js" type="text/javascript"></script>
+<![endif]-->
+
+<title>Committee &#8211; xSIG 2017</title>
+<link rel='dns-prefetch' href='http://webfonts.sakura.ne.jp/' />
+<link rel='dns-prefetch' href='http://s0.wp.com/' />
+<link rel='dns-prefetch' href='http://fonts.googleapis.com/' />
+<link rel='dns-prefetch' href='http://s.w.org/' />
+<link rel="alternate" type="application/rss+xml" title="xSIG 2017 &raquo; フィード" href="../../../feed/index.html" />
+<link rel="alternate" type="application/rss+xml" title="xSIG 2017 &raquo; コメントフィード" href="../../../comments/feed/index.html" />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.2.1\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.2.1\/svg\/","svgExt":".svg","source":{"concatemoji":"http:\/\/xsig.hpcc.jp\/en\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.7"}};
+			!function(a,b,c){function d(a){var b,c,d,e,f=String.fromCharCode;if(!k||!k.fillText)return!1;switch(k.clearRect(0,0,j.width,j.height),k.textBaseline="top",k.font="600 32px Arial",a){case"flag":return k.fillText(f(55356,56826,55356,56819),0,0),!(j.toDataURL().length<3e3)&&(k.clearRect(0,0,j.width,j.height),k.fillText(f(55356,57331,65039,8205,55356,57096),0,0),b=j.toDataURL(),k.clearRect(0,0,j.width,j.height),k.fillText(f(55356,57331,55356,57096),0,0),c=j.toDataURL(),b!==c);case"emoji4":return k.fillText(f(55357,56425,55356,57341,8205,55357,56507),0,0),d=j.toDataURL(),k.clearRect(0,0,j.width,j.height),k.fillText(f(55357,56425,55356,57341,55357,56507),0,0),e=j.toDataURL(),d!==e}return!1}function e(a){var c=b.createElement("script");c.src=a,c.defer=c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var f,g,h,i,j=b.createElement("canvas"),k=j.getContext&&j.getContext("2d");for(i=Array("flag","emoji4"),c.supports={everything:!0,everythingExceptFlag:!0},h=0;h<i.length;h++)c.supports[i[h]]=d(i[h]),c.supports.everything=c.supports.everything&&c.supports[i[h]],"flag"!==i[h]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[i[h]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(g=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",g,!1),a.addEventListener("load",g,!1)):(a.attachEvent("onload",g),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),f=c.source||{},f.concatemoji?e(f.concatemoji):f.wpemoji&&f.twemoji&&(e(f.twemoji),e(f.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<link rel='stylesheet' id='mappress-css'  href='../../../wp-content/plugins/mappress-google-maps-for-wordpress/css/mappress.css?ver=2.43.10' type='text/css' media='all' />
+<link rel='stylesheet' id='thinkup-google-fonts-css'  href='http://fonts.googleapis.com/css?family=PT+Sans%3A300%2C400%2C600%2C700%7CRaleway%3A300%2C400%2C600%2C700&amp;subset=latin%2Clatin-ext' type='text/css' media='all' />
+<link rel='stylesheet' id='bootstrap-css'  href='../../../wp-content/themes/experon/lib/extentions/bootstrap/css/bootstrap.min.css?ver=2.3.2' type='text/css' media='all' />
+<link rel='stylesheet' id='prettyPhoto-css'  href='../../../wp-content/themes/experon/lib/extentions/prettyPhoto/css/prettyPhoto.css?ver=3.1.6' type='text/css' media='all' />
+<link rel='stylesheet' id='dashicons-css'  href='../../../wp-includes/css/dashicons.min.css?ver=4.7' type='text/css' media='all' />
+<link rel='stylesheet' id='font-awesome-css'  href='../../../wp-content/themes/experon/lib/extentions/font-awesome/css/font-awesome.css?ver=4.2.0' type='text/css' media='all' />
+<link rel='stylesheet' id='thinkup-shortcodes-css'  href='../../../wp-content/themes/experon/styles/style-shortcodes.css?ver=1.0.9' type='text/css' media='all' />
+<link rel='stylesheet' id='thinkup-style-css'  href='../../../wp-content/themes/experon/style.css?ver=1.0.9' type='text/css' media='all' />
+<link rel='stylesheet' id='mlp_frontend_css-css'  href='../../../wp-content/plugins/multilingual-press/assets/css/frontend.min.css?ver=1478511004' type='text/css' media='all' />
+<link rel='stylesheet' id='thinkup-sidebarleft-css'  href='../../../wp-content/themes/experon/styles/layouts/thinkup-left-sidebar.css?ver=1.0.9' type='text/css' media='all' />
+<link rel='stylesheet' id='thinkup-responsive-css'  href='../../../wp-content/themes/experon/styles/style-responsive.css?ver=1.0.9' type='text/css' media='all' />
+<link rel='stylesheet' id='jetpack_css-css'  href='../../../wp-content/plugins/jetpack/css/jetpack.css?ver=4.4.2' type='text/css' media='all' />
+<link rel="stylesheet" type="text/css" href="../../../wp-content/cache/nextend/web2/n2-ss-2/n2-ss-2.css?1481217764" media="screen, print" />
+<style type="text/css">.n2-ss-spinner-simple-white-container {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    margin: -20px;
+    background: #fff;
+    width: 20px;
+    height: 20px;
+    padding: 10px;
+    border-radius: 50%;
+    z-index: 1000;
+}
+
+.n2-ss-spinner-simple-white {
+  outline: 1px solid RGBA(0,0,0,0);
+  width:100%;
+  height: 100%;
+}
+
+.n2-ss-spinner-simple-white:before {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    width: 20px;
+    height: 20px;
+    margin-top: -11px;
+    margin-left: -11px;
+}
+
+.n2-ss-spinner-simple-white:not(:required):before {
+    content: '';
+    border-radius: 50%;
+    border-top: 2px solid #333;
+    border-right: 2px solid transparent;
+    animation: n2SimpleWhite .6s linear infinite;
+    -webkit-animation: n2SimpleWhite .6s linear infinite;
+}
+@keyframes n2SimpleWhite {
+    to {transform: rotate(360deg);}
+}
+
+@-webkit-keyframes n2SimpleWhite {
+    to {-webkit-transform: rotate(360deg);}
+}</style><script type='text/javascript' src='../../../wp-includes/js/jquery/jquery.js?ver=1.12.4'></script>
+<script type='text/javascript' src='../../../wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1'></script>
+<script type='text/javascript' src='http://webfonts.sakura.ne.jp/js/sakura.js?ver=1.0.4'></script>
+<link rel='https://api.w.org/' href='../../../wp-json/index.html' />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="../../../xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="../../../wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 4.7" />
+<link rel="canonical" href="../../../cfp/submission/en/xsig2017/committee" />
+<link rel='shortlink' href='http://wp.me/P82sVo-m' />
+<link rel="alternate" type="application/json+oembed" href="../../../wp-json/oembed/1.0/embed?url=http%253A%252F%252Fxsig.hpcc.jp%252Fen%252Fxsig2017%252Fcommittee%252F" />
+<link rel="alternate" type="text/xml+oembed" href="../../../wp-json/oembed/1.0/embed?url=http%253A%252F%252Fxsig.hpcc.jp%252Fen%252Fxsig2017%252Fcommittee%252F&amp;format=xml" />
+<script type='text/javascript'>mapp = {data : []};</script>
+<link rel="alternate" hreflang="ja-JP" href="../../../../committee"><link rel="alternate" hreflang="en-US" href="../../../cfp/submission/en/xsig2017/committee">
+<link rel='dns-prefetch' href='http://v0.wordpress.com/'>
+<style type='text/css'>img#wpstats{display:none}</style>
+<!-- Jetpack Open Graph Tags -->
+<meta property="og:type" content="article" />
+<meta property="og:title" content="Committee" />
+<meta property="og:url" content="http://xsig.hpcc.jp/en/xsig2017/committee/" />
+<meta property="og:description" content="Organizing Committee General Chair TAURA, Kenjiro (The &hellip;" />
+<meta property="article:published_time" content="2016-10-07T07:27:57+00:00" />
+<meta property="article:modified_time" content="2016-12-02T13:54:49+00:00" />
+<meta property="og:site_name" content="xSIG 2017" />
+<meta property="og:image" content="https://s0.wp.com/i/blank.jpg" />
+<meta property="og:locale" content="ja_JP" />
+<meta name="twitter:card" content="summary" />
+
+<style type="text/css">
+#sidebar { color: #303030; }
+#main    { color: #303030; font-size: 18px; }
+
+h1, h2, h3, h4, h5, h6 {
+	color: darkslategray;
+	font: FontAwesome;
+	margin: 1em 0 0.5em;
+}
+h1 { font-size: 32px; }
+h2 { font-size: 28px; }
+h3 { font-size: 24px; }
+#main h3 { border-bottom: solid 1px dimgray; }
+h4 { font-size: 18px; }
+h5 { font-size: 16px; }
+h6 { font-size: 14px; }
+p {
+	text-indent: 1em;
+	margin-top:    10px;
+	margin-bottom: 10px;
+}
+ul, ol {
+	margin: 10px 0 10px 20px;
+}
+ul {
+	list-style: disc;
+}
+ul ul {
+	list-style: circle;
+}
+ol {
+	list-style: decimal;
+}
+ul ul, ol ol, ul ol, ol ul {
+	margin: 5px 0px 5px 1.5em;
+}
+em { font-style: normal; font-weight: bold; color: maroon; }
+th, dt { color: darkslategray; }
+p a, ol a { text-decoration: underline; }
+#sidebar a { color: royalblue; }
+a:hover,
+#sidebar a:hover,
+#footer a:hover { color: red; }
+
+#logo h1 {
+	color: DarkGray;;
+	font-size: 26px;
+	line-height: 1.4;
+	font-weight: normal;
+	margin-top: 15px;
+}
+#logo h2 {
+	color: silver;
+	font-size: 18px;
+	font-weight: normal;
+	line-height: 20px;
+}
+
+#slider .featured-title span,
+.thinkupslider-sc .featured-title span {
+	color: white; /* #115172; */
+	font-size: 48px;
+	font-weight: 300;
+	line-height: 1.15;
+}
+#slider .featured-excerpt span,
+.thinkupslider-sc .featured-excerpt span {
+	color: white; /* #115172; */
+}
+table.plain    { border: none; width: auto;  }
+table.plain th, td { 
+  border: none; border-bottom: solid 1px silver; empty-cells: hide;
+  text-align: left; vertical-align: top; 
+  padding: 5px 10px 0px;
+  width: auto; white-space: nowrap; }
+table.plain th:empty, td:empty { border: none; }
+</style>
+
+<script type="text/javascript">window.nextend={localization:{},deferreds:[],loadScript:function(url){n2jQuery.ready(function(){nextend.deferreds.push(n2.ajax({url:url,dataType:"script",cache:true,error:function(){console.log(arguments)}}))})},ready:function(cb){n2.when.apply(n2,nextend.deferreds).done(function(){cb.call(window,n2)})}};nextend.fontsLoaded=false;nextend.fontsLoadedActive=function(){nextend.fontsLoaded=true};var fontData={google:{families:["Open Sans:400:latin"]},active:function(){nextend.fontsLoadedActive()},inactive:function(){nextend.fontsLoadedActive()}};if(typeof WebFontConfig!=='undefined'){var _WebFontConfig=WebFontConfig;for(var k in WebFontConfig){if(k=='active'){fontData.active=function(){nextend.fontsLoadedActive();_WebFontConfig.active()}}else if(k=='inactive'){fontData.inactive=function(){nextend.fontsLoadedActive();_WebFontConfig.inactive()}}else if(k=='google'){if(typeof WebFontConfig.google.families!=='undefined'){for(var i=0;i<WebFontConfig.google.families.length;i++){fontData.google.families.push(WebFontConfig.google.families[i])}}}else{fontData[k]=WebFontConfig[k]}}}if(typeof WebFont==='undefined'){window.WebFontConfig=fontData}else{WebFont.load(fontData)}</script><script type="text/javascript" src="../../../wp-content/cache/nextend/web2/n2/n2.js?1481172654"></script>
+<script type="text/javascript" src="../../../wp-content/plugins/smart-slider-3/nextend/media/dist/nextend-frontend.min.js?1481172622"></script>
+<script type="text/javascript" src="../../../wp-content/plugins/smart-slider-3/library/media/dist/smartslider-frontend.min.js?1481172621"></script>
+<script type="text/javascript" src="../../../wp-content/plugins/smart-slider-3/library/media/plugins/type/simple/simple/dist/smartslider-simple-type-frontend.min.js?1481172621"></script>
+<script type="text/javascript" src="../../../wp-content/plugins/smart-slider-3/nextend/media/dist/nextend-webfontloader.min.js?1481172622"></script>
+<script type="text/javascript" src="../../../wp-content/cache/nextend/web2/n2-ss-2/n2-ss-2.js?1481217764"></script>
+<script type="text/javascript">window.n2jQuery.ready((function($){window.nextend.ready(function(){nextend.fontsDeferred=n2.Deferred();if(nextend.fontsLoaded){nextend.fontsDeferred.resolve()}else{nextend.fontsLoadedActive=function(){nextend.fontsLoaded=true;nextend.fontsDeferred.resolve()};var intercalCounter=0;nextend.fontInterval=setInterval(function(){if(intercalCounter>3||document.documentElement.className.indexOf('wf-active')!==-1){nextend.fontsLoadedActive();clearInterval(nextend.fontInterval)}intercalCounter++},1000)}new NextendSmartSliderSimple('#n2-ss-2',{"admin":false,"isStaticEdited":0,"translate3d":1,"callbacks":"","align":"center","isDelayed":0,"load":{"fade":1,"scroll":0},"playWhenVisible":1,"responsive":{"desktop":1,"tablet":1,"mobile":1,"onResizeEnabled":true,"type":"auto","downscale":1,"upscale":0,"minimumHeight":100,"maximumHeight":3000,"maximumSlideWidth":3000,"maximumSlideWidthLandscape":3000,"maximumSlideWidthTablet":3000,"maximumSlideWidthTabletLandscape":3000,"maximumSlideWidthMobile":3000,"maximumSlideWidthMobileLandscape":3000,"maximumSlideWidthConstrainHeight":0,"forceFull":0,"constrainRatio":1,"verticalOffsetSelectors":"","focusUser":0,"focusAutoplay":0,"deviceModes":{"desktopPortrait":1,"desktopLandscape":0,"tabletPortrait":1,"tabletLandscape":0,"mobilePortrait":1,"mobileLandscape":0},"normalizedDeviceModes":{"unknownUnknown":["unknown","Unknown"],"desktopPortrait":["desktop","Portrait"],"desktopLandscape":["desktop","Portrait"],"tabletPortrait":["tablet","Portrait"],"tabletLandscape":["tablet","Portrait"],"mobilePortrait":["mobile","Portrait"],"mobileLandscape":["mobile","Portrait"]},"verticalRatioModifiers":{"unknownUnknown":1,"desktopPortrait":1,"desktopLandscape":1,"tabletPortrait":1,"tabletLandscape":1,"mobilePortrait":1,"mobileLandscape":1},"minimumFontSizes":{"desktopPortrait":4,"desktopLandscape":4,"tabletPortrait":4,"tabletLandscape":4,"mobilePortrait":4,"mobileLandscape":4},"ratioToDevice":{"Portrait":{"tablet":0.7,"mobile":0.5},"Landscape":{"tablet":0,"mobile":0}},"sliderWidthToDevice":{"desktopPortrait":1200,"desktopLandscape":1200,"tabletPortrait":840,"tabletLandscape":0,"mobilePortrait":600,"mobileLandscape":0},"basedOn":"combined","tabletPortraitScreenWidth":800,"mobilePortraitScreenWidth":440,"tabletLandscapeScreenWidth":800,"mobileLandscapeScreenWidth":440,"orientationMode":"width_and_height","scrollFix":0,"overflowHiddenPage":0},"controls":{"scroll":0,"drag":1,"touch":"horizontal","keyboard":1,"tilt":0},"lazyLoad":0,"lazyLoadNeighbor":0,"blockrightclick":0,"maintainSession":0,"autoplay":{"enabled":1,"start":1,"duration":8000,"autoplayToSlide":-1,"autoplayToSlideIndex":-1,"allowReStart":0,"pause":{"click":1,"mouse":"0","mediaStarted":1},"resume":{"click":0,"mouse":0,"mediaEnded":1,"slidechanged":0}},"layerMode":{"playOnce":0,"playFirstLayer":1,"mode":"skippable","inAnimation":"mainInEnd"},"parallax":{"enabled":1,"mobile":0,"is3D":0,"animate":1,"horizontal":"mouse","vertical":"mouse","origin":"slider","scrollmove":"both"},"initCallbacks":[],"bgAnimations":0,"mainanimation":{"type":"crossfade","duration":800,"delay":0,"ease":"easeOutQuad","parallax":1,"shiftedBackgroundAnimation":0},"carousel":1,"dynamicHeight":0});new NextendSmartSliderWidgetArrowImage("n2-ss-2",1,0.7,0.5);new NextendSmartSliderWidgetAutoplayImage("n2-ss-2",1,0.7,0.5);new NextendSmartSliderWidgetThumbnailDefault("n2-ss-2",{"overlay":false,"area":12,"orientation":"horizontal","group":1,"action":"click","captionSize":0,"minimumThumbnailCount":1.5})})}));</script></head>
+
+<body class="page-template-default page page-id-22 page-child parent-pageid-156 layout-responsive header-style1 blog-style1">
+<div id="body-core" class="hfeed site">
+
+	<header id="site-header">
+
+		
+		<div id="pre-header">
+		<div class="wrap-safari">
+		<div id="pre-header-core" class="main-navigation">
+  
+			
+			
+		</div>
+		</div>
+		</div>
+		<!-- #pre-header -->
+
+		<div id="header">
+		<div id="header-core">
+
+			<div id="logo">
+			<a rel="home" href="../../../index.html"><h1 rel="home" class="site-title" title="xSIG 2017">xSIG 2017</h1><h2 class="site-description" title="The 1st. cross-disciplinary Workshop on Computing Systems, Infrastructures, and Programming">The 1st. cross-disciplinary Workshop on Computing Systems, Infrastructures, and Programming</h2></a>			</div>
+
+			<div id="header-links" class="main-navigation">
+			<div id="header-links-inner" class="header-links">
+
+				<ul id="menu-primary-menu" class="menu"><li id="menu-item-21" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-has-children"><a href="../../../index.html"><span>ｘSIG</span></a>
+<ul class="sub-menu">
+	<li id="menu-item-83" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="../../../about/history/index.html">History</a></li>
+	<li id="menu-item-400" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="../../../frontpage/kangaeru/index.html">&#8220;Thinking Committee&#8221;</a></li>
+</ul>
+</li>
+<li id="menu-item-161" class="menu-item menu-item-type-post_type menu-item-object-page current-page-ancestor current-menu-ancestor current-menu-parent current-page-parent current_page_parent current_page_ancestor menu-item-has-children"><a href="../../../xsig2017.1"><span>2017 in Tokyo</span></a>
+<ul class="sub-menu">
+	<li id="menu-item-453" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="../../date_venue/index.html">Date and Venue</a></li>
+	<li id="menu-item-447" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="../../../dates">Important Dates</a></li>
+	<li id="menu-item-451" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="../../../keynote">Keynote &#038; Invited Talks</a></li>
+	<li id="menu-item-26" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-22 current_page_item"><a href="../../../cfp/submission/en/xsig2017/committee">Committee</a></li>
+	<li id="menu-item-226" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="../../young-pc/index.html">Young PC Members</a></li>
+</ul>
+</li>
+<li id="menu-item-20" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children"><a href="../../../cfp/index.html"><span>Call for Papers</span></a>
+<ul class="sub-menu">
+	<li id="menu-item-241" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="../../../format/index.html">Paper Format</a></li>
+	<li id="menu-item-461" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="../../../cfp/submission.1">Submission Guide</a></li>
+</ul>
+</li>
+</ul>				
+							</div>
+			</div>
+			<!-- #header-links .main-navigation -->
+
+			<div id="header-nav"><a class="btn-navbar" data-toggle="collapse" data-target=".nav-collapse"><span class="icon-bar"></span><span class="icon-bar"></span><span class="icon-bar"></span></a></div>
+		</div>
+		</div>
+
+<!-- Nextend Smart Slider 3 #2 - BEGIN -->
+<div id="n2-ss-2-align" class="n2-ss-align" style="margin: 0 auto; max-width: 1200px;"><div class="n2-padding"><div id="n2-ss-2" class="n2-ss-slider n2notransition n2-ss-load-fade " data-minFontSizedesktopPortrait="4" data-minFontSizedesktopLandscape="4" data-minFontSizetabletPortrait="4" data-minFontSizetabletLandscape="4" data-minFontSizemobilePortrait="4" data-minFontSizemobileLandscape="4" style="font-size: 16px;" data-fontsize="16">
+        <div class="n2-ss-slider-1" style="">
+                        <div class="n2-ss-slider-2">
+                                <div class="n2-ss-slider-3" style="">
+
+                    <div data-slide-duration="0" data-id="4" class="n2-ss-slide n2-ss-canvas  n2-ss-slide-active n2-ss-slide-4" style=""><div data-hash="d268b98a960bf562275595311f4fd82a" data-desktop="//xsig.hpcc.jp/en/wp-content/uploads/sites/2/2016/10/20727693611_64941c31a5_b.jpg" style="" class="n2-ss-slide-background" data-opacity="1"><img title="" style="opacity:1;" class="n2-ss-slide-background-image n2-ss-slide-fill n2-ow" data-x="50" data-y="50" src="../../../wp-content/uploads/sites/2/2016/10/20727693611_64941c31a5_b.jpg" alt="" /></div><div class="n2-ss-layers-container" style="cursor:pointer;" onclick="" data-href="http://xsig.hpcc.jp/en/xsig2017/" data-n2click="window.location=this.getAttribute(&#039;data-href&#039;)" data-n2middleclick="window.open(this.getAttribute(&#039;data-href&#039;),&#039;_blank&#039;);"><div class="n2-ss-layer" style="z-index:1;overflow:visible;text-align:left;left:0px;top:0px;width:auto;height:auto;" data-animations="eyJyZXBlYXRhYmxlIjowLCJzcGVjaWFsWmVyb0luIjowLCJ0cmFuc2Zvcm1PcmlnaW5JbiI6IjUwfCp8NTB8KnwwIiwiaW5QbGF5RXZlbnQiOiIiLCJyZXBlYXRDb3VudCI6MCwicmVwZWF0U3RhcnREZWxheSI6MCwidHJhbnNmb3JtT3JpZ2luTG9vcCI6IjUwfCp8NTB8KnwwIiwibG9vcFBsYXlFdmVudCI6IiIsImxvb3BQYXVzZUV2ZW50IjoiIiwibG9vcFN0b3BFdmVudCI6IiIsInRyYW5zZm9ybU9yaWdpbk91dCI6IjUwfCp8NTB8KnwwIiwib3V0UGxheUV2ZW50IjoiIiwiaW5zdGFudE91dCI6MSwiaW4iOltdLCJsb29wIjpbXSwib3V0IjpbXX0=" data-class="" data-adaptivefont="0" data-desktopportrait="1" data-desktoplandscape="1" data-tabletportrait="1" data-tabletlandscape="1" data-mobileportrait="1" data-mobilelandscape="1" data-responsiveposition="1" data-responsivesize="1" data-desktopportraitleft="0" data-desktopportraittop="0" data-desktopportraitwidth="auto" data-desktopportraitheight="auto" data-desktopportraitalign="center" data-desktopportraitvalign="middle" data-desktopportraitparentalign="center" data-desktopportraitparentvalign="middle" data-desktopportraitfontsize="100" data-rotation="0"><h2 id="n2-ss-2item1" class="  n2-ow" style="display:block;white-space:nowrap;"><a class="n2-font-ca63386e465b16a9cdd10a9fa07db6a8-hover  n2-ow" style="display:block;" target="_self" href="../../../xsig2017.1">xSIG 2017 in Tokyo</a></h2></div></div></div><div data-slide-duration="0" data-id="5" class="n2-ss-slide n2-ss-canvas  n2-ss-slide-5" style=""><div data-hash="7997b11787f77b05310b3ef99b4c5888" data-desktop="//xsig.hpcc.jp/en/wp-content/uploads/sites/2/2016/10/iphone-desk-laptop-notebook.jpg" style="" class="n2-ss-slide-background" data-opacity="1"><img title="" style="opacity:1;" class="n2-ss-slide-background-image n2-ss-slide-fill n2-ow" data-x="50" data-y="50" src="../../../wp-content/uploads/sites/2/2016/10/iphone-desk-laptop-notebook.jpg" alt="" /></div><div class="n2-ss-layers-container" style=""><div class="n2-ss-layer" style="z-index:1;overflow:visible;text-align:left;left:252px;top:44px;width:auto;height:auto;" data-animations="eyJyZXBlYXRhYmxlIjowLCJzcGVjaWFsWmVyb0luIjowLCJ0cmFuc2Zvcm1PcmlnaW5JbiI6IjUwfCp8NTB8KnwwIiwiaW5QbGF5RXZlbnQiOiIiLCJyZXBlYXRDb3VudCI6MCwicmVwZWF0U3RhcnREZWxheSI6MCwidHJhbnNmb3JtT3JpZ2luTG9vcCI6IjUwfCp8NTB8KnwwIiwibG9vcFBsYXlFdmVudCI6IiIsImxvb3BQYXVzZUV2ZW50IjoiIiwibG9vcFN0b3BFdmVudCI6IiIsInRyYW5zZm9ybU9yaWdpbk91dCI6IjUwfCp8NTB8KnwwIiwib3V0UGxheUV2ZW50IjoiIiwiaW5zdGFudE91dCI6MSwiaW4iOltdLCJsb29wIjpbXSwib3V0IjpbXX0=" data-class="" data-adaptivefont="0" data-desktopportrait="1" data-desktoplandscape="1" data-tabletportrait="1" data-tabletlandscape="1" data-mobileportrait="1" data-mobilelandscape="1" data-responsiveposition="1" data-responsivesize="1" data-desktopportraitleft="252" data-desktopportraittop="44" data-desktopportraitwidth="auto" data-desktopportraitheight="auto" data-desktopportraitalign="center" data-desktopportraitvalign="middle" data-desktopportraitparentalign="center" data-desktopportraitparentvalign="middle" data-desktopportraitfontsize="100" data-rotation="0"><h2 id="n2-ss-2item2" class="  n2-ow" style="display:block;white-space:nowrap;"><a class="n2-font-c0da94c284eb8d7ccdf8b8ffd6e20a31-hover  n2-ow" style="display:block;" target="_self" href="../../../cfp/index.html">Call for Papers</a></h2></div></div></div><div data-slide-duration="0" data-id="8" class="n2-ss-slide n2-ss-canvas  n2-ss-slide-8" style=""><div data-hash="8d8212bb55740bf8ba0eaffad6b5cdb0" data-desktop="//xsig.hpcc.jp/en/wp-content/uploads/sites/2/2016/10/JP-Tokyo-Tokyo-Station-Main-Building-Night-e1476876976966.jpg" style="" class="n2-ss-slide-background" data-opacity="1"><img title="" style="opacity:1;" class="n2-ss-slide-background-image n2-ss-slide-fill n2-ow" data-x="50" data-y="50" src="../../../wp-content/uploads/sites/2/2016/10/JP-Tokyo-Tokyo-Station-Main-Building-Night-e1476876976966.jpg" alt="" /></div><div class="n2-ss-layers-container" style="cursor:pointer;" onclick="" data-href="http://xsig.hpcc.jp/en/xsig2017/" data-n2click="window.location=this.getAttribute(&#039;data-href&#039;)" data-n2middleclick="window.open(this.getAttribute(&#039;data-href&#039;),&#039;_blank&#039;);"><div class="n2-ss-layer" style="z-index:1;overflow:visible;text-align:left;left:0px;top:0px;width:auto;height:auto;" data-animations="eyJyZXBlYXRhYmxlIjowLCJzcGVjaWFsWmVyb0luIjowLCJ0cmFuc2Zvcm1PcmlnaW5JbiI6IjUwfCp8NTB8KnwwIiwiaW5QbGF5RXZlbnQiOiIiLCJyZXBlYXRDb3VudCI6MCwicmVwZWF0U3RhcnREZWxheSI6MCwidHJhbnNmb3JtT3JpZ2luTG9vcCI6IjUwfCp8NTB8KnwwIiwibG9vcFBsYXlFdmVudCI6IiIsImxvb3BQYXVzZUV2ZW50IjoiIiwibG9vcFN0b3BFdmVudCI6IiIsInRyYW5zZm9ybU9yaWdpbk91dCI6IjUwfCp8NTB8KnwwIiwib3V0UGxheUV2ZW50IjoiIiwiaW5zdGFudE91dCI6MSwiaW4iOltdLCJsb29wIjpbXSwib3V0IjpbXX0=" data-class="" data-adaptivefont="0" data-desktopportrait="1" data-desktoplandscape="1" data-tabletportrait="1" data-tabletlandscape="1" data-mobileportrait="1" data-mobilelandscape="1" data-responsiveposition="1" data-responsivesize="1" data-desktopportraitleft="0" data-desktopportraittop="0" data-desktopportraitwidth="auto" data-desktopportraitheight="auto" data-desktopportraitalign="center" data-desktopportraitvalign="middle" data-desktopportraitparentalign="center" data-desktopportraitparentvalign="middle" data-desktopportraitfontsize="100" data-rotation="0"><h2 id="n2-ss-2item3" class="  n2-ow" style="display:block;white-space:nowrap;"><a class="n2-font-ca63386e465b16a9cdd10a9fa07db6a8-hover  n2-ow" style="display:block;" target="_self" href="../../../xsig2017.1">xSIG 2017 in Tokyo</a></h2></div></div></div><div data-slide-duration="0" data-id="6" class="n2-ss-slide n2-ss-canvas  n2-ss-slide-6" style=""><div data-hash="1dceffa492af5e23c49aa720353fd17b" data-desktop="//xsig.hpcc.jp/en/wp-content/uploads/sites/2/2016/10/2283676770_6b53f8b77f_b.jpg" style="" class="n2-ss-slide-background" data-opacity="1"><img title="" style="opacity:1;" class="n2-ss-slide-background-image n2-ss-slide-fill n2-ow" data-x="50" data-y="50" src="../../../wp-content/uploads/sites/2/2016/10/2283676770_6b53f8b77f_b.jpg" alt="" /></div><div class="n2-ss-layers-container" style="cursor:pointer;" onclick="" data-href="http://xsig.hpcc.jp/en/frontpage/history/" data-n2click="window.location=this.getAttribute(&#039;data-href&#039;)" data-n2middleclick="window.open(this.getAttribute(&#039;data-href&#039;),&#039;_blank&#039;);"><div class="n2-ss-layer" style="z-index:1;overflow:visible;text-align:left;left:0px;top:0px;width:auto;height:auto;" data-animations="eyJyZXBlYXRhYmxlIjowLCJzcGVjaWFsWmVyb0luIjowLCJ0cmFuc2Zvcm1PcmlnaW5JbiI6IjUwfCp8NTB8KnwwIiwiaW5QbGF5RXZlbnQiOiIiLCJyZXBlYXRDb3VudCI6MCwicmVwZWF0U3RhcnREZWxheSI6MCwidHJhbnNmb3JtT3JpZ2luTG9vcCI6IjUwfCp8NTB8KnwwIiwibG9vcFBsYXlFdmVudCI6IiIsImxvb3BQYXVzZUV2ZW50IjoiIiwibG9vcFN0b3BFdmVudCI6IiIsInRyYW5zZm9ybU9yaWdpbk91dCI6IjUwfCp8NTB8KnwwIiwib3V0UGxheUV2ZW50IjoiIiwiaW5zdGFudE91dCI6MSwiaW4iOltdLCJsb29wIjpbXSwib3V0IjpbXX0=" data-class="" data-adaptivefont="0" data-desktopportrait="1" data-desktoplandscape="1" data-tabletportrait="1" data-tabletlandscape="1" data-mobileportrait="1" data-mobilelandscape="1" data-responsiveposition="1" data-responsivesize="1" data-desktopportraitleft="0" data-desktopportraittop="0" data-desktopportraitwidth="auto" data-desktopportraitheight="auto" data-desktopportraitalign="center" data-desktopportraitvalign="middle" data-desktopportraitparentalign="center" data-desktopportraitparentvalign="middle" data-desktopportraitfontsize="100" data-rotation="0"><h2 id="n2-ss-2item4" class="  n2-ow" style="display:block;white-space:nowrap;"><a class="n2-font-ca63386e465b16a9cdd10a9fa07db6a8-hover  n2-ow" style="display:block;" target="_self" href="../../../about/history/index.html">History</a></h2></div></div></div><div data-slide-duration="0" data-id="9" class="n2-ss-slide n2-ss-canvas  n2-ss-slide-9" style=""><div data-hash="cbecce800e173c6a7c464a62c7732624" data-desktop="//xsig.hpcc.jp/en/wp-content/uploads/sites/2/2016/10/1280px-Tokyo_Sky_tree.jpg" style="" class="n2-ss-slide-background" data-opacity="1"><img title="" style="opacity:1;" class="n2-ss-slide-background-image n2-ss-slide-fill n2-ow" data-x="50" data-y="50" src="../../../wp-content/uploads/sites/2/2016/10/1280px-Tokyo_Sky_tree.jpg" alt="" /></div><div class="n2-ss-layers-container" style="cursor:pointer;" onclick="" data-href="http://xsig.hpcc.jp/en/xsig2017/" data-n2click="window.location=this.getAttribute(&#039;data-href&#039;)" data-n2middleclick="window.open(this.getAttribute(&#039;data-href&#039;),&#039;_blank&#039;);"><div class="n2-ss-layer" style="z-index:1;overflow:visible;text-align:left;left:0px;top:0px;width:auto;height:auto;" data-animations="eyJyZXBlYXRhYmxlIjowLCJzcGVjaWFsWmVyb0luIjowLCJ0cmFuc2Zvcm1PcmlnaW5JbiI6IjUwfCp8NTB8KnwwIiwiaW5QbGF5RXZlbnQiOiIiLCJyZXBlYXRDb3VudCI6MCwicmVwZWF0U3RhcnREZWxheSI6MCwidHJhbnNmb3JtT3JpZ2luTG9vcCI6IjUwfCp8NTB8KnwwIiwibG9vcFBsYXlFdmVudCI6IiIsImxvb3BQYXVzZUV2ZW50IjoiIiwibG9vcFN0b3BFdmVudCI6IiIsInRyYW5zZm9ybU9yaWdpbk91dCI6IjUwfCp8NTB8KnwwIiwib3V0UGxheUV2ZW50IjoiIiwiaW5zdGFudE91dCI6MSwiaW4iOltdLCJsb29wIjpbXSwib3V0IjpbXX0=" data-class="" data-adaptivefont="0" data-desktopportrait="1" data-desktoplandscape="1" data-tabletportrait="1" data-tabletlandscape="1" data-mobileportrait="1" data-mobilelandscape="1" data-responsiveposition="1" data-responsivesize="1" data-desktopportraitleft="0" data-desktopportraittop="0" data-desktopportraitwidth="auto" data-desktopportraitheight="auto" data-desktopportraitalign="center" data-desktopportraitvalign="middle" data-desktopportraitparentalign="center" data-desktopportraitparentvalign="middle" data-desktopportraitfontsize="100" data-rotation="0"><h2 id="n2-ss-2item5" class="  n2-ow" style="display:block;white-space:nowrap;"><a class="n2-font-ca63386e465b16a9cdd10a9fa07db6a8-hover  n2-ow" style="display:block;" target="_self" href="../../../xsig2017.1">xSIG 2017 in Tokyo</a></h2></div></div></div><div data-slide-duration="0" data-id="10" class="n2-ss-slide n2-ss-canvas  n2-ss-slide-10" style=""><div data-hash="67be7471f6fb23481262ef9850e47a0b" data-desktop="//xsig.hpcc.jp/en/wp-content/uploads/sites/2/2016/10/der-denker-e1476969727213.jpg" style="" class="n2-ss-slide-background" data-opacity="1"><img title="" style="opacity:1;" class="n2-ss-slide-background-image n2-ss-slide-fill n2-ow" data-x="50" data-y="50" src="../../../wp-content/uploads/sites/2/2016/10/der-denker-e1476969727213.jpg" alt="" /></div><div class="n2-ss-layers-container" style="cursor:pointer;" onclick="" data-href="http://xsig.hpcc.jp/en/frontpage/kangaeru/" data-n2click="window.location=this.getAttribute(&#039;data-href&#039;)" data-n2middleclick="window.open(this.getAttribute(&#039;data-href&#039;),&#039;_blank&#039;);"><div class="n2-ss-layer" style="z-index:1;overflow:visible;text-align:left;left:0px;top:0px;width:auto;height:auto;" data-animations="eyJyZXBlYXRhYmxlIjowLCJzcGVjaWFsWmVyb0luIjowLCJ0cmFuc2Zvcm1PcmlnaW5JbiI6IjUwfCp8NTB8KnwwIiwiaW5QbGF5RXZlbnQiOiIiLCJyZXBlYXRDb3VudCI6MCwicmVwZWF0U3RhcnREZWxheSI6MCwidHJhbnNmb3JtT3JpZ2luTG9vcCI6IjUwfCp8NTB8KnwwIiwibG9vcFBsYXlFdmVudCI6IiIsImxvb3BQYXVzZUV2ZW50IjoiIiwibG9vcFN0b3BFdmVudCI6IiIsInRyYW5zZm9ybU9yaWdpbk91dCI6IjUwfCp8NTB8KnwwIiwib3V0UGxheUV2ZW50IjoiIiwiaW5zdGFudE91dCI6MSwiaW4iOltdLCJsb29wIjpbXSwib3V0IjpbXX0=" data-class="" data-adaptivefont="0" data-desktopportrait="1" data-desktoplandscape="1" data-tabletportrait="1" data-tabletlandscape="1" data-mobileportrait="1" data-mobilelandscape="1" data-responsiveposition="1" data-responsivesize="1" data-desktopportraitleft="0" data-desktopportraittop="0" data-desktopportraitwidth="auto" data-desktopportraitheight="auto" data-desktopportraitalign="center" data-desktopportraitvalign="middle" data-desktopportraitparentalign="center" data-desktopportraitparentvalign="middle" data-desktopportraitfontsize="100" data-rotation="0"><h2 id="n2-ss-2item6" class="  n2-ow" style="display:block;white-space:nowrap;"><a class="n2-font-ca63386e465b16a9cdd10a9fa07db6a8-hover  n2-ow" style="display:block;" target="_self" href="../../../frontpage/kangaeru/index.html">"Thinking Committee"</a></h2></div></div></div>                </div>
+            </div>
+        </div>
+        <div data-ssleft="0+15" data-sstop="height/2-previousheight/2" id="n2-ss-2-arrow-previous" class="n2-ss-widget n2-ss-widget-display-desktop n2-ss-widget-display-tablet n2-ss-widget-display-mobile nextend-arrow n2-ib nextend-arrow-previous  nextend-arrow-animated-fade" style="position: absolute;"><img class="n2-ow" data-no-lazy="1" data-hack="data-lazy-src" src="data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMzIiIGhlaWdodD0iMzIiIHZpZXdCb3g9IjAgMCAzMiAzMiIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48cGF0aCBkPSJNMTEuNDMzIDE1Ljk5MkwyMi42OSA1LjcxMmMuMzkzLS4zOS4zOTMtMS4wMyAwLTEuNDItLjM5My0uMzktMS4wMy0uMzktMS40MjMgMGwtMTEuOTggMTAuOTRjLS4yMS4yMS0uMy40OS0uMjg1Ljc2LS4wMTUuMjguMDc1LjU2LjI4NC43N2wxMS45OCAxMC45NGMuMzkzLjM5IDEuMDMuMzkgMS40MjQgMCAuMzkzLS40LjM5My0xLjAzIDAtMS40MmwtMTEuMjU3LTEwLjI5IiBmaWxsPSIjZmZmZmZmIiBvcGFjaXR5PSIwLjgiIGZpbGwtcnVsZT0iZXZlbm9kZCIvPjwvc3ZnPg==" alt="Arrow" /></div><div data-ssright="0+15" data-sstop="height/2-nextheight/2" id="n2-ss-2-arrow-next" class="n2-ss-widget n2-ss-widget-display-desktop n2-ss-widget-display-tablet n2-ss-widget-display-mobile nextend-arrow n2-ib nextend-arrow-next  nextend-arrow-animated-fade" style="position: absolute;"><img class="n2-ow" data-no-lazy="1" data-hack="data-lazy-src" src="data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMzIiIGhlaWdodD0iMzIiIHZpZXdCb3g9IjAgMCAzMiAzMiIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48cGF0aCBkPSJNMTAuNzIyIDQuMjkzYy0uMzk0LS4zOS0xLjAzMi0uMzktMS40MjcgMC0uMzkzLjM5LS4zOTMgMS4wMyAwIDEuNDJsMTEuMjgzIDEwLjI4LTExLjI4MyAxMC4yOWMtLjM5My4zOS0uMzkzIDEuMDIgMCAxLjQyLjM5NS4zOSAxLjAzMy4zOSAxLjQyNyAwbDEyLjAwNy0xMC45NGMuMjEtLjIxLjMtLjQ5LjI4NC0uNzcuMDE0LS4yNy0uMDc2LS41NS0uMjg2LS43NkwxMC43MiA0LjI5M3oiIGZpbGw9IiNmZmZmZmYiIG9wYWNpdHk9IjAuOCIgZmlsbC1ydWxlPSJldmVub2RkIi8+PC9zdmc+" alt="Arrow" /></div>
+<div data-ssright="0+15" data-sstop="0+15" class="n2-ss-widget n2-ss-widget-display-desktop n2-ss-widget-display-tablet n2-ss-widget-display-mobile n2-style-07b80f0c82484b6d6258ed0a5cead109-heading nextend-autoplay n2-ib nextend-autoplay-image" style="position: absolute;"><img class="nextend-autoplay-play n2-ow" data-no-lazy="1" src="data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMTYiIGhlaWdodD0iMTYiIHZpZXdCb3g9IjAgMCAxNiAxNiIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48cGF0aCBkPSJNMTEuNTggNy4wM0w1LjMwMiAyLjE2NUM1LjE2NSAyLjA1NyA1LjAxNiAyIDQuODU3IDIgNC4zODQgMiA0IDIuNTA0IDQgMy4xMjV2OS43NWMwIC42Mi4zODQgMS4xMjUuODU3IDEuMTI1LjE2IDAgLjMwOC0uMDU3LjQzNi0uMTU2TDExLjU4IDguOTdjLjI1LS4xOTguNDItLjU1OC40Mi0uOTcgMC0uNDEyLS4xNy0uNzczLS40Mi0uOTd6IiBmaWxsPSIjZmZmZmZmIiBvcGFjaXR5PSIwLjgiIGZpbGwtcnVsZT0iZXZlbm9kZCIvPjwvc3ZnPg==" alt="Play" /><img class="nextend-autoplay-pause n2-ow" data-no-lazy="1" src="data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMTYiIGhlaWdodD0iMTYiIHZpZXdCb3g9IjAgMCAxNiAxNiIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48cGF0aCBkPSJNNCAydjEyaDNWMkg0em01IDB2MTJoM1YySDl6IiBmaWxsPSIjZmZmZmZmIiBvcGFjaXR5PSIwLjgiIGZpbGwtcnVsZT0iZXZlbm9kZCIvPjwvc3ZnPg==" alt="Pause" /></div>
+<div data-ssleft="width/2-thumbnailwidth/2" data-sstop="height" data-offset="0" class="n2-ss-widget n2-ss-widget-display-desktop n2-ss-widget-display-tablet n2-ss-widget-display-mobile nextend-thumbnail nextend-thumbnail-default nextend-thumbnail-horizontal" style="position: absolute;width:100%;"><img class="nextend-thumbnail-button nextend-thumbnail-previous n2-ow" src="data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjYiIGhlaWdodD0iMjYiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+CiAgICA8ZyBmaWxsPSJub25lIiBmaWxsLXJ1bGU9ImV2ZW5vZGQiPgogICAgICAgIDxjaXJjbGUgc3Ryb2tlPSIjZmZmIiBzdHJva2Utd2lkdGg9IjIiIG9wYWNpdHk9Ii41IiBmaWxsPSIjMDAwIiBjeD0iMTMiIGN5PSIxMyIgcj0iMTIiLz4KICAgICAgICA8cGF0aCBkPSJNMTMuNDM1IDkuMTc4Yy0uMTI2LS4xMjEtLjI3LS4xODItLjQzNi0uMTgyLS4xNjQgMC0uMzA2LjA2MS0uNDI4LjE4MmwtNC4zOCA0LjE3NWMtLjEyNi4xMjEtLjE4OC4yNjItLjE4OC40MjQgMCAuMTYxLjA2Mi4zMDIuMTg4LjQyM2wuNjUuNjIyYy4xMjYuMTIxLjI3My4xODIuNDQxLjE4Mi4xNyAwIC4zMTQtLjA2MS40MzYtLjE4MmwzLjMxNC0zLjE2MSAzLjI0OSAzLjE2MWMuMTI2LjEyMS4yNjkuMTgyLjQzMi4xODIuMTY0IDAgLjMwNy0uMDYxLjQzMy0uMTgybC42NjItLjYyMmMuMTI2LS4xMjEuMTg5LS4yNjIuMTg5LS40MjMgMC0uMTYyLS4wNjMtLjMwMy0uMTg5LS40MjRsLTQuMzczLTQuMTc1eiIgZmlsbD0iI2ZmZiIvPgogICAgPC9nPgo8L3N2Zz4=" alt="Arrow" /><img class="nextend-thumbnail-button nextend-thumbnail-next n2-ow n2-active" src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNiIgaGVpZ2h0PSIyNiI+CiAgICA8ZyBmaWxsPSJub25lIj4KICAgICAgICA8Y2lyY2xlIGN4PSIxMyIgY3k9IjEzIiByPSIxMiIgZmlsbD0iIzAwMCIgc3Ryb2tlPSIjZmZmIiBzdHJva2Utd2lkdGg9IjIiIG9wYWNpdHk9Ii41Ii8+CiAgICAgICAgPHBhdGggZmlsbD0iI2ZmZiIgZD0iTTEyLjU2NSAxNi44MjJjLjEyNi4xMi4yNy4xODIuNDM2LjE4Mi4xNjggMCAuMzEtLjA2LjQzLS4xODJsNC4zOC00LjE3NWMuMTI4LS4xMi4xOS0uMjYyLjE5LS40MjQgMC0uMTYtLjA2Mi0uMzAyLS4xOS0uNDIzbC0uNjUtLjYyMmMtLjEyNS0uMTItLjI3Mi0uMTgyLS40NC0uMTgyLS4xNyAwLS4zMTQuMDYtLjQzNi4xODJsLTMuMzE0IDMuMTYtMy4yNS0zLjE2Yy0uMTI2LS4xMi0uMjctLjE4Mi0uNDMtLjE4Mi0uMTY2IDAtLjMxLjA2LS40MzUuMTgybC0uNjYyLjYyMmMtLjEyNi4xMi0uMTkuMjYyLS4xOS40MjMgMCAuMTYyLjA2NC4zMDMuMTkuNDI0bDQuMzczIDQuMTc1eiIvPgogICAgPC9nPgo8L3N2Zz4=" alt="Arrow" /><div class="nextend-thumbnail-inner"><div class="n2-style-8c39bd1b5d1c821102353bb13550e669-simple nextend-thumbnail-scroller"><table class="n2-ow" style=""><tr><td><div class="n2-style-0d7e6147d938756e488febb9fea88b5d-dot n2-active " style="width: 100px; height: 60px;"><div class="n2-ss-thumb-image" style="background-image: URL(http://xsig.hpcc.jp/en/xsig2017/committee/&);width: 100px; height: 60px;background-size: cover;"></div></div></td><td><div class="n2-style-0d7e6147d938756e488febb9fea88b5d-dot " style="width: 100px; height: 60px;"><div class="n2-ss-thumb-image" style="background-image: URL(http://xsig.hpcc.jp/en/xsig2017/committee/&);width: 100px; height: 60px;background-size: cover;"></div></div></td><td><div class="n2-style-0d7e6147d938756e488febb9fea88b5d-dot " style="width: 100px; height: 60px;"><div class="n2-ss-thumb-image" style="background-image: URL(http://xsig.hpcc.jp/en/xsig2017/committee/&);width: 100px; height: 60px;background-size: cover;"></div></div></td><td><div class="n2-style-0d7e6147d938756e488febb9fea88b5d-dot " style="width: 100px; height: 60px;"><div class="n2-ss-thumb-image" style="background-image: URL(http://xsig.hpcc.jp/en/xsig2017/committee/&);width: 100px; height: 60px;background-size: cover;"></div></div></td><td><div class="n2-style-0d7e6147d938756e488febb9fea88b5d-dot " style="width: 100px; height: 60px;"><div class="n2-ss-thumb-image" style="background-image: URL(http://xsig.hpcc.jp/en/xsig2017/committee/&);width: 100px; height: 60px;background-size: cover;"></div></div></td><td><div class="n2-style-0d7e6147d938756e488febb9fea88b5d-dot " style="width: 100px; height: 60px;"><div class="n2-ss-thumb-image" style="background-image: URL(http://xsig.hpcc.jp/en/xsig2017/committee/&);width: 100px; height: 60px;background-size: cover;"></div></div></td></tr></table></div></div></div>
+</div><div class="clear"></div><div id="n2-ss-2-spinner"><div><div class="n2-ss-spinner-simple-white-container"><div class="n2-ss-spinner-simple-white"></div></div></div></div></div></div><div style="clear: both"></div><div id="n2-ss-2-placeholder" style="position: relative;z-index:2;"><img style="width: 100%; max-width:3000px;" class="n2-ow" src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZlcnNpb249IjEuMCIgd2lkdGg9IjEyMDAiIGhlaWdodD0iMjAwIiA+PC9zdmc+" alt="Slider" /></div>
+<!-- Nextend Smart Slider 3 #2 - END -->
+		<!-- #header -->
+
+		<div id="header-responsive"><div id="header-responsive-inner" class="responsive-links nav-collapse collapse"><ul id="menu-primary-menu-1" class=""><li id="res-menu-item-21" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-has-children"><a href="../../../index.html"><span>ｘSIG</span></a>
+<ul class="sub-menu">
+	<li id="res-menu-item-83" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="../../../about/history/index.html">&#45; History</a></li>
+	<li id="res-menu-item-400" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="../../../frontpage/kangaeru/index.html">&#45; &quot;Thinking Committee&quot;</a></li>
+</ul>
+</li>
+<li id="res-menu-item-161" class="menu-item menu-item-type-post_type menu-item-object-page current-page-ancestor current-menu-ancestor current-menu-parent current-page-parent current_page_parent current_page_ancestor menu-item-has-children"><a href="../../../xsig2017.1"><span>2017 in Tokyo</span></a>
+<ul class="sub-menu">
+	<li id="res-menu-item-453" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="../../date_venue/index.html">&#45; Date and Venue</a></li>
+	<li id="res-menu-item-447" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="../../../dates">&#45; Important Dates</a></li>
+	<li id="res-menu-item-451" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="../../../keynote">&#45; Keynote &#038; Invited Talks</a></li>
+	<li id="res-menu-item-26" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-22 current_page_item"><a href="../../../cfp/submission/en/xsig2017/committee">&#45; Committee</a></li>
+	<li id="res-menu-item-226" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="../../young-pc/index.html">&#45; Young PC Members</a></li>
+</ul>
+</li>
+<li id="res-menu-item-20" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children"><a href="../../../cfp/index.html"><span>Call for Papers</span></a>
+<ul class="sub-menu">
+	<li id="res-menu-item-241" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="../../../format/index.html">&#45; Paper Format</a></li>
+	<li id="res-menu-item-461" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="../../../cfp/submission.1">&#45; Submission Guide</a></li>
+</ul>
+</li>
+</ul></div></div>
+		
+		<div id="intro" class="option1"><div class="wrap-safari"><div id="intro-core"><h1 class="page-title"><span>Committee</span></h1></div></div></div>
+	</header>
+	<!-- header -->
+
+		
+	<div id="content">
+	<div id="content-core">
+
+		<div id="main">
+		<div id="main-core">
+
+			
+				
+		<h3 id="oc">Organizing Committee</h3>
+<table class="plain">
+<colgroup>
+<col style="width: 12em;">
+<col style="width:  8em;">
+<col style="width: 16em; white-space: normal;">
+</colgroup>
+<tr>
+<th>General Chair</th>
+<td>TAURA, Kenjiro</td>
+<td>(The University of Tokyo)</td>
+</tr>
+<tr>
+<th>PC Chair</th>
+<td>GOSHIMA, Masahiro</td>
+<td>(National Institute of Informatics)</td>
+</tr>
+<tr>
+<th rowspan=3>PC Vice Chairs</th>
+<td>INOUE, Koji</td>
+<td>(Kyushu University)</td>
+</tr>
+<tr>
+<td>ENDO, Toshio</td>
+<td>(Tokyo Institute of Technology)</td>
+</tr>
+<tr>
+<td>KAWASHIMA, Hideyuki</td>
+<td>(Tsukuba University)</td>
+</tr>
+<tr>
+<th>PC Secretary</th>
+<td>FUJIEDA, Naoki</td>
+<td>(Toyohashi University of Technology)</td>
+</tr>
+</tbody>
+</table>
+<h3 id="pc">Program Committee Members</h3>
+<p>TBA.<br />
+<!-- table class="plain">
+
+
+<colgroup>
+  
+
+<col style="width: 12em;">
+  
+
+<col style="width:  8em;">
+  
+
+<col style="width: 16em; white-space: normal;">
+</colgroup>
+
+
+
+
+<tbody>
+
+
+<tr>
+
+
+<td></td>
+
+
+
+
+<td>石井　 康夫</td>
+
+
+
+
+<td>（ARM）</td>
+
+
+</tr>
+
+
+
+
+<tr>
+
+
+<td></td>
+
+
+
+
+<td>伊野　 文彦</td>
+
+
+
+
+<td>（大阪大学）</td>
+
+
+</tr>
+
+
+
+
+<tr>
+
+
+<td></td>
+
+
+
+
+<td>井上　 拓</td>
+
+
+
+
+<td>（IBM）</td>
+
+
+</tr>
+
+
+
+
+<tr>
+
+
+<td></td>
+
+
+
+
+<td>入江　 英嗣</td>
+
+
+
+
+<td>（東京大学）</td>
+
+
+</tr>
+
+
+
+
+<tr>
+
+
+<td></td>
+
+
+
+
+<td>岩下　 武史</td>
+
+
+
+
+<td>（北海道大学）</td>
+
+
+</tr>
+
+
+
+
+<tr>
+
+
+<td></td>
+
+
+
+
+<td>上野　 雄大</td>
+
+
+
+
+<td>（東北大学）</td>
+
+
+</tr>
+
+
+
+
+<tr>
+
+
+<td></td>
+
+
+
+
+<td>大島　 聡史</td>
+
+
+
+
+<td>（東京大学）</td>
+
+
+</tr>
+
+
+
+
+<tr>
+
+
+<td></td>
+
+
+
+
+<td>小沢　 健史</td>
+
+
+
+
+<td>（NTT）</td>
+
+
+</tr>
+
+
+
+
+<tr>
+
+
+<td></td>
+
+
+
+
+<td>鬼塚　 真</td>
+
+
+
+
+<td>（大阪大学）</td>
+
+
+</tr>
+
+
+
+
+<td></td>
+
+
+
+
+<td>片桐　 孝洋</td>
+
+
+
+
+<td>（名古屋大学）</td>
+
+
+</tr>
+
+
+
+
+<tr>
+
+
+<td></td>
+
+
+
+
+<td>吉瀬　 謙二</td>
+
+
+
+
+<td>（東京工業大学）</td>
+
+
+</tr>
+
+
+
+
+<tr>
+
+
+<td></td>
+
+
+
+
+<td>木村　 啓二</td>
+
+
+
+
+<td>（早稲田大学）</td>
+
+
+</tr>
+
+
+
+
+<tr>
+
+
+<td></td>
+
+
+
+
+<td>鯉渕　 道紘</td>
+
+
+
+
+<td>（国立情報学研究所）</td>
+
+
+</tr>
+
+
+
+
+<tr>
+
+
+<td></td>
+
+
+
+
+<td>合田　 和生</td>
+
+
+
+
+<td>（東京大学）</td>
+
+
+</tr>
+
+
+
+
+<tr>
+
+
+<td></td>
+
+
+
+
+<td>光来　 健一</td>
+
+
+
+
+<td>（九州工業大学）</td>
+
+
+</tr>
+
+
+
+
+<tr>
+
+
+<td></td>
+
+
+
+
+<td>近藤　 正章</td>
+
+
+
+
+<td>（東京大学）</td>
+
+
+</tr>
+
+
+
+
+<tr>
+
+
+<td></td>
+
+
+
+
+<td>佐藤　 仁</td>
+
+
+
+
+<td>（産業技術総合研究所/東京工業大学）</td>
+
+
+</tr>
+
+
+
+
+<tr>
+
+
+<td></td>
+
+
+
+
+<td>塩谷　 亮太</td>
+
+
+
+
+<td>（名古屋大学）</td>
+
+
+</tr>
+
+
+
+
+<tr>
+
+
+<td></td>
+
+
+
+
+<td>清水　 正明</td>
+
+
+
+
+<td>（日立株式会社）</td>
+
+
+</tr>
+
+
+
+
+<tr>
+
+
+<td></td>
+
+
+
+
+<td>菅谷 みどり</td>
+
+
+
+
+<td>（芝浦工業大学）</td>
+
+
+</tr>
+
+
+
+
+<tr>
+
+
+<td></td>
+
+
+
+
+<td>高野　 了成</td>
+
+
+
+
+<td>（産業技術総合研究所）</td>
+
+
+</tr>
+
+
+
+
+<tr>
+
+
+<td></td>
+
+
+
+
+<td>高前田 伸也</td>
+
+
+
+
+<td>（北海道大学）</td>
+
+
+</tr>
+
+
+
+
+<tr>
+
+
+<td></td>
+
+
+
+
+<td>滝沢　 寛之</td>
+
+
+
+
+<td>（東北大学）</td>
+
+
+</tr>
+
+
+
+
+<tr>
+
+
+<td></td>
+
+
+
+
+<td>竹房 あつ子</td>
+
+
+
+
+<td>（国立情報学研究所）</td>
+
+
+</tr>
+
+
+
+
+<tr>
+
+
+<td></td>
+
+
+
+
+<td>千代 英一郎</td>
+
+
+
+
+<td>（成蹊大学）</td>
+
+
+</tr>
+
+
+
+
+<tr>
+
+
+<td></td>
+
+
+
+
+<td>津邑　 公暁</td>
+
+
+
+
+<td>（名古屋工業大学）</td>
+
+
+</tr>
+
+
+
+
+<tr>
+
+
+<td></td>
+
+
+
+
+<td>中田　 尚</td>
+
+
+
+
+<td>（奈良先端科学技術大学院大学）</td>
+
+
+</tr>
+
+
+
+
+<tr>
+
+
+<td></td>
+
+
+
+
+<td>中田　 秀基</td>
+
+
+
+
+<td>（産業技術総合研究所）</td>
+
+
+</tr>
+
+
+
+
+<tr>
+
+
+<td></td>
+
+
+
+
+<td>中田　 真秀</td>
+
+
+
+
+<td>（理化学研究所）</td>
+
+
+</tr>
+
+
+
+
+<tr>
+
+
+<td></td>
+
+
+
+
+<td>西　　 宏章</td>
+
+
+
+
+<td>（慶應義塾大学）</td>
+
+
+</tr>
+
+
+
+
+<tr>
+
+
+<td></td>
+
+
+
+
+<td>長谷川 揚平</td>
+
+
+
+
+<td>（株式会社東芝）</td>
+
+
+</tr>
+
+
+
+
+<tr>
+
+
+<td></td>
+
+
+
+
+<td>原　　 祐子</td>
+
+
+
+
+<td>（東京工業大学）</td>
+
+
+</tr>
+
+
+
+
+<tr>
+
+
+<td></td>
+
+
+
+
+<td>藤井　 昭宏</td>
+
+
+
+
+<td>（工学院大学）</td>
+
+
+</tr>
+
+
+
+
+<tr>
+
+
+<td></td>
+
+
+
+
+<td>藤澤　 克樹</td>
+
+
+
+
+<td>（九州大学）</td>
+
+
+</tr>
+
+
+
+
+<tr>
+
+
+<td></td>
+
+
+
+
+<td>松谷　 宏紀</td>
+
+
+
+
+<td>（慶應義塾大学）</td>
+
+
+</tr>
+
+
+
+
+<tr>
+
+
+<td></td>
+
+
+
+
+<td>丸山　 直也</td>
+
+
+
+
+<td>（理化学研究所）</td>
+
+
+</tr>
+
+
+
+
+<tr>
+
+
+<td></td>
+
+
+
+
+<td>水島　 宏太</td>
+
+
+
+
+<td>（ドワンゴ）</td>
+
+
+</tr>
+
+
+
+
+<tr>
+
+
+<td></td>
+
+
+
+
+<td>南出　 靖彦</td>
+
+
+
+
+<td>（東京工業大学）</td>
+
+
+</tr>
+
+
+
+
+<tr>
+
+
+<td></td>
+
+
+
+
+<td>宮崎　 純</td>
+
+
+
+
+<td>（東京工業大学）</td>
+
+
+</tr>
+
+
+
+
+<tr>
+
+
+<td></td>
+
+
+
+
+<td>望月　 寛</td>
+
+
+
+
+<td>（日本大学）</td>
+
+
+</tr>
+
+
+
+
+<tr>
+
+
+<td></td>
+
+
+
+
+<td>八杉　 昌宏</td>
+
+
+
+
+<td>（九州工業大学）</td>
+
+
+</tr>
+
+
+
+
+<tr>
+
+
+<td></td>
+
+
+
+
+<td>山田　 裕</td>
+
+
+
+
+<td>（株式会社東芝）</td>
+
+
+</tr>
+
+
+
+
+<tr>
+
+
+<td></td>
+
+
+
+
+<td>山室　 健</td>
+
+
+
+
+<td>（NTT）</td>
+
+
+</tr>
+
+
+
+
+<tr>
+
+
+<td></td>
+
+
+
+
+<td>油井　 誠</td>
+
+
+
+
+<td>（Treasure Data）</td>
+
+
+</tr>
+
+
+</tbody>
+
+
+</table -->
+
+
+				
+			
+
+		</div><!-- #main-core -->
+		</div><!-- #main -->
+		
+		<div id="sidebar">
+		<div id="sidebar-core">
+
+						<aside class="widget mlp_widget"><div class="mlp-language-box mlp_language_box"><ul><li><a rel="alternate" hreflang="ja-JP" href="../../../../xsig2017/committee/index.html?noredirect=ja_JP"><img src="../../../wp-content/plugins/multilingual-press/assets/images/flags/ja.gif" alt="日本語"> 日本語</a></li><li><a class="current-language-item" href="../../../cfp/submission/en/xsig2017/committee"><img src="../../../wp-content/plugins/multilingual-press/assets/images/flags/en.gif" alt="English"> English</a></li></ul></div></aside><aside class="widget widget_search">	<form method="get" class="searchform" action="../../../index.html" role="search">
+		<input type="text" class="search" name="s" value="" placeholder="Search &hellip;" />
+		<input type="submit" class="searchsubmit" name="submit" value="Search" />
+	</form></aside><aside class="widget widget_text"><h3 class="widget-title">What&#8217;s New</h3>			<div class="textwidget"><table class="plain">
+<tbody>
+<tr><th colspan=2>Dec. 20, 2016</th></tr>
+<tr><td></td><td><a href="../../../dates">Deadline Extended</a></td></tr>
+<tr><th colspan=2>Dec. 07, 2016</th></tr>
+<tr><td></td><td><a href="../../../cfp/submission.1">Submission Guide</a> added</td></tr>
+<tr><td></td><td><a href="https://easychair.org/conferences/?conf=xsig2017" target="_blank">Submission Site</a> opened</td></tr>
+<tr><th colspan=2>Dec. 02, 2016
+<tr><td></td><td><a href="../../../keynote">Keynote talk</a> by <a href="http://www-users.cs.umn.edu/~kumar/">Dｒ．Vipin Kumar</a></td></tr>
+<tr><th colspan=2>Nov. 09, 2016</th></tr>
+<tr><td></td><td><a href="../../../xsig2017.1">Data and Venue</a> decided</td></tr>
+<tr><th colspan=2>Oct. 27, 2016</th></tr>
+<td><td>Special issue on xSIG in <a href="https://acs.hpcc.jp/welcome-e.html">trans. ACS</a> </tr>
+<tr><td><td>New co-sponsor, <a href="http://www.ieice.org/iss/de/jpn/">IEICE, DE</a></tr>
+<!-- tr><th colspan=2>Oct. 17, 2016</th></tr>
+<tr><td></td><td>English site open</td></tr -->
+</tbody>
+</table></div>
+		</aside><aside class="widget widget_text"><h3 class="widget-title">Important Dates (JST)</h3>			<div class="textwidget"><table class="plain">
+<tr><th colspan=3>2016
+<tr><td style="border: none;"><td>Dec. 28</td>
+<td>Abstract Submission <em>(extended)</em></td>
+</tr>
+<tr><th colspan=3>2017</td>
+<tr><td style="border: none;"><td>Jan. 05</td>
+<td>Paper Submission <em>(extended)</td>
+</tr>
+<tr><td style="border: none;"><td>Feb. 02</td>
+<td>Author Notification</td>
+</tr>
+<tr>
+<td>
+<td  colspan=2>Apr. 24 to 27&emsp;&emsp;xSIG 
+2017</td></tr>
+<tr><th colspan=3>Venue</th>
+<tr><td><td colspan=2><a href="http://forum.academyhills.com/toranomon/en/" target="_blank">Toranomon Hills Forum</a>
+</tr>
+<tr><td colspan=3 style="border: none; text-align: right;"><a href="../../../dates" style="text-decoration: underline; ">More Detail</a>
+</td></tr>
+</table></div>
+		</aside>
+		</div>
+		</div><!-- #sidebar -->
+					</div>
+	</div><!-- #content -->
+
+	
+	<footer>
+		<div id="footer"><div id="footer-core" class="option10"><div id="footer-col1" class="widget-area"><aside class="widget widget_text"><h3 class="footer-widget-title"><span>Sonsors</span></h3>			<div class="textwidget"><style>
+table.sponsors td { white-space: normal; }
+</style>
+<table class="plain sponsors" id="sponsors">
+<colgroup>
+<col style="white-space: nowrap;">
+<col style="white-space: normal;">
+<col style="white-space: normal;">
+<col style="text-align: left;">
+</colgroup>
+<tr>
+  <td rowspan=3>Sponsors</td>
+  <td rowspan=4><a href="http://www.ipsj.or.jp/english/" target="_blank"> Information Processing Society of Japan</a> (IPSJ)</td>
+  <td><a href="http://sigarc.ipsj.or.jp/" target="_blank">SIG System Architecture</a></td>
+  <td>(ARC)</td>
+</tr>    
+<tr>
+  <td><a href="http://www.ipsj.or.jp/sig/os/" target="_blank">SIG System Software and Operating System</a></td>
+  <td>(OS)</td>
+</tr>
+<tr>
+  <td><a href="http://sigpro.ipsj.or.jp/" target="_blank">SIG Programming</a></td>
+  <td>(PRO)</td>
+</tr>
+<tr>
+  <td rowspan=4 style="white-space: nowrap;">Co-Sponsors</td>
+  <td><a href="http://sighpc.ipsj.or.jp/" target="_blank">SIG High-Performance Computing</a></td>
+  <td>(HPC)</td>
+</tr>
+
+<tr>
+  <td rowspan=3><a href="https://www.ieice.org/eng/" target="_blank">The Institute of Electronics, Information<br>
+and Communication Engineers</a> (IEICE)</td>
+  <td><a href="http://www.ieice.or.jp/iss/cpsy/eng/" target="_blank">Technical Committee on Computer System</a></td>
+  <td>(CPSY)</td>
+</tr>    
+<tr>
+  <td><a href="http://www.ieice.org/iss/de/jpn/" target="_blank">Technical Committee on Data Engineering</a></td>
+  <td>(DE)</td>
+</tr>
+<tr>
+  <td><a href="http://www.ieice.org/~reconf/" target="_blank">Technical Committee on Reconfigurable Systems</a></td>
+  <td>(RECONF)</td>
+</tr>
+
+<!-- tr>
+  <td>協賛<td>
+  <td><a href="https://jhpcn-kyoten.itc.u-tokyo.ac.jp/ja/" target="_blank">JHPCN</a>（学際大規模情報基盤共同利用・共同研究拠点）??? </td>
+</tr -->
+</table></div>
+		</aside></div><div id="footer-col2" class="widget-area"><aside class="widget widget_text"><h3 class="footer-widget-title"><span>Copyright</span></h3>			<div class="textwidget">2016 
+<span style="font-family: Tahoma;">&copy;</span> 
+xSIG 2017 <a href="../../committee/en/xsig2017/committee#oc">Organizing  Committee</a>, <br>
+All rights reserved. </div>
+		</aside><aside class="widget widget_text"><h3 class="footer-widget-title"><span>Contact</span></h3>			<div class="textwidget"><a href="mailto:xsig2017@xsig.hpcc.jp">xsig2017@xsig.hpcc.jp</a></div>
+		</aside></div></div></div><!-- #footer -->		
+		<div id="sub-footer">
+
+		<div id="sub-footer-core">
+		
+			<div class="copyright">
+			Developed by <a href="http://www.thinkupthemes.com/" target="_blank">Think Up Themes Ltd</a>. Powered by <a href="http://www.wordpress.org/" target="_blank">WordPress</a>.			</div>
+			<!-- .copyright -->
+
+						<div id="footer-menu" class="sub-footer-links"><ul id="menu-primary-menu-2" class="menu"><li id="menu-item-21" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-has-children menu-item-21"><a href="../../../index.html">ｘSIG</a></li>
+<li id="menu-item-161" class="menu-item menu-item-type-post_type menu-item-object-page current-page-ancestor current-menu-ancestor current-menu-parent current-page-parent current_page_parent current_page_ancestor menu-item-has-children menu-item-161"><a href="../../../xsig2017.1">2017 in Tokyo</a></li>
+<li id="menu-item-20" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-20"><a href="../../../cfp/index.html">Call for Papers</a></li>
+</ul></div>						<!-- #footer-menu -->
+
+			
+		</div>
+		</div>
+	</footer><!-- footer -->
+
+</div><!-- #body-core -->
+
+	<div style="display:none">
+	</div>
+<script type='text/javascript' src='http://s0.wp.com/wp-content/js/devicepx-jetpack.js?ver=201652'></script>
+<script type='text/javascript' src='../../../wp-includes/js/imagesloaded.min.js?ver=3.2.0'></script>
+<script type='text/javascript' src='../../../wp-content/themes/experon/lib/extentions/prettyPhoto/js/jquery.prettyPhoto.js?ver=3.1.6'></script>
+<script type='text/javascript' src='../../../wp-content/themes/experon/lib/extentions/bootstrap/js/bootstrap.js?ver=2.3.2'></script>
+<script type='text/javascript' src='../../../wp-content/themes/experon/lib/scripts/modernizr.js?ver=2.6.2'></script>
+<script type='text/javascript' src='../../../wp-content/themes/experon/lib/scripts/plugins/scrollup/jquery.scrollUp.min.js?ver=2.4.1'></script>
+<script type='text/javascript' src='../../../wp-content/themes/experon/lib/scripts/main-frontend.js?ver=1.1'></script>
+<script type='text/javascript' src='../../../wp-includes/js/wp-embed.min.js?ver=4.7'></script>
+<script type='text/javascript' src='http://stats.wp.com/e-201652.js' async defer></script>
+<script type='text/javascript'>
+	_stq = window._stq || [];
+	_stq.push([ 'view', {v:'ext',j:'1:4.4.2',blog:'118798534',post:'22',tz:'9',srv:'xsig.hpcc.jp'} ]);
+	_stq.push([ 'clickTrackerInit', '118798534', '22' ]);
+</script>
+
+</body>
+</html>
